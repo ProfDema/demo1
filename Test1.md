@@ -25,7 +25,7 @@ def add_one(x):
     return x + 1
 ```
 
-|p|q| p => q |
+|p|q| p \implies q |
 |:----|:----|:----|
 |True|True|True|
 |True|False|False|
