@@ -1,6 +1,6 @@
-#Markdown
+# Markdown
 
-##Table of Contents
+## Table of Contents
 
 1. Introduction to Markdown
 2. Writing cool documents using Markdown
