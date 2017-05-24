@@ -15,4 +15,5 @@
      * Which in turn can contain unorderd sublists
 
 CSCC01 [Website](https://mathlab.utsc.utoronto.ca/courses/cscc01s17)
+
 CSCC01 [Website](https://mathlab.utsc.utoronto.ca/courses/cscc01s17 "Course Website")
