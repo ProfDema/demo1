@@ -11,5 +11,5 @@
 * Headers
 * Ordered Lists
 * Unordered Lists
-..* May contain ordered sublists
+1. May contain ordered sublists
 
