@@ -18,4 +18,4 @@ CSCC01 [Website](https://mathlab.utsc.utoronto.ca/courses/cscc01s17)
 
 CSCC01 [Website](https://mathlab.utsc.utoronto.ca/courses/cscc01s17 "Course Website")
 
-UTSC logo: !(https://mathlab.utsc.utoronto.ca/courses/cscc01s17/utsc_logo.jpg)
+UTSC logo: ![alt text](https://mathlab.utsc.utoronto.ca/courses/cscc01s17/utsc_logo.jpg "UTSC")
