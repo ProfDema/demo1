@@ -25,11 +25,11 @@ def add_one(x):
     return x + 1
 ```
 
-|p|q| p => q |
+|p|q| p or q |
 |:----|:----|:----|
 |True|True|True|
-|True|False|False|
+|True|False|True|
 |False|True|True|
 |False|False|False|
 
-$ \sum_{\forall i}{x_i^{2}} $
+
