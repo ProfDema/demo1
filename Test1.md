@@ -19,3 +19,10 @@ CSCC01 [Website](https://mathlab.utsc.utoronto.ca/courses/cscc01s17)
 CSCC01 [Website](https://mathlab.utsc.utoronto.ca/courses/cscc01s17 "Course Website")
 
 ![alt text](https://mathlab.utsc.utoronto.ca/courses/cscc01s17/utsc_logo.jpg "UTSC")
+
+'''python
+def add_one(x):
+    return x + 1
+'''
+
+
