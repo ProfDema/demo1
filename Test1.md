@@ -25,4 +25,10 @@ def add_one(x):
     return x + 1
 ```
 
+|p|q| p => q |
+|:----|:----|:----|
+|True|True|True|
+|True|False|False|
+|False|True|True|
+|False|False|False|
 
